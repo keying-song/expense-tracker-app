@@ -1,4 +1,5 @@
 ﻿keying Song 301166693
+expense tracker- WPF application, c#. This application help users to add, delete, update, and search for their income and expense records and also calculate the total balance.
 
 1. this program contains Buttons, Labels, Testboxes,  Radio Buttons, Checkboxes, TabControls
 2.this program contains Combobox
