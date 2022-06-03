@@ -19,3 +19,6 @@ expense tracker- WPF application, c#. This application help users to add, delete
                 IEnumerable<Records> query = selectedAccount.Records.Where(record => Convert.ToString(record.Type) != null);
                 IEnumerable<Records> query = selectedAccount.Records.Where(record => Convert.ToString(record.Type) == "Expense");
 8. this program only contains .net generic collection  IEnumerable<Records> query.
+  
+  
+![project1](https://user-images.githubusercontent.com/102123559/171959637-e565f811-4a84-4923-883e-c78869b9378d.gif)
